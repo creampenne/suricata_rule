@@ -10,3 +10,7 @@ snort(suricata) rule 파일을 제작하여 특정 사이트 트래픽을 탐지
 ## 기타
 - git에는 rules 파일과 fast.log 파일을 올릴 것.
 - 메일에는 코드 파일을 첨부하지 말고 git 주소만 알려줄 것.
+
+## 추가
+- fast_pattern 이해 및 적용  
+https://suricata.readthedocs.io/en/suricata-6.0.0/rules/fast-pattern-explained.html
